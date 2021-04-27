@@ -5,7 +5,7 @@ The script **"ml_problem_resolution.py"** is a mini-tutorial presenting an appro
 Technically, the work will focus on the dataset **"dataset.csv"** with 34 features and a target to predict.
 
 To execute this file, simply run the command 
--> pip install -r requirements.txt && python3 exercise_ml_internship_altair.py _
+-> pip install -r requirements.txt && python3 ml_problem_resolution.py
 in a terminal (preferably Linux).
 
 Any improvement or feedback is welcome.
